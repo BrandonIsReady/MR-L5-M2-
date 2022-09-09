@@ -1,3 +1,8 @@
+
+This, as the title suggests, was my Mission Ready, Level 5, Mission 2 project. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
